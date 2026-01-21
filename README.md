@@ -4,7 +4,7 @@ Este projeto é uma releitura do clássico jogo de memória "Genius" (Simon Says
 
 <img width="1321" height="562" alt="Genius Oficial (1)" src="https://github.com/user-attachments/assets/4fa8c56f-b034-4a5b-b4d3-6827234dd539" />
 
-[Genius Oficial.pdf](https://github.com/user-attachments/files/24782081/Genius.Oficial.pdf)
+[Esquema Elétrico.pdf](https://github.com/user-attachments/files/24782081/Genius.Oficial.pdf)
 
 
 ## 🚀 Funcionalidades
