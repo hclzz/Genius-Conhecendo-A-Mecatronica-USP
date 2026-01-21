@@ -2,6 +2,8 @@
 
 Este projeto é uma releitura do clássico jogo de memória "Genius" (Simon Says), implementado com Arduino. Ele apresenta dois modos de jogo distintos, selecionáveis via hardware, e utiliza um Anel de LEDs (NeoPixel) para feedback visual avançado.
 
+<img width="1321" height="562" alt="Genius Oficial (1)" src="https://github.com/user-attachments/assets/4fa8c56f-b034-4a5b-b4d3-6827234dd539" />
+
 ## 🚀 Funcionalidades
 
 * **Modo Clássico (Switch HIGH):** Jogo de memória tradicional. O anel de LEDs serve como feedback visual das cores. Sem pressão de tempo.
